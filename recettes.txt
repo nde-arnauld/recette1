@@ -1,0 +1,6 @@
+pommes
+mangues
+fraises
+poires
+oranges
+bananes
