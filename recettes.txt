@@ -4,3 +4,5 @@ fraises
 poires
 oranges
 bananes
+raisins
+cerises
